@@ -1,0 +1,80 @@
+#si-eres{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-align: center;
+    padding-top: 0.7%;
+}
+#si-quieres{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    padding-top: 0.7%;
+}
+#header{
+    height: 40px;
+}
+.aqui{
+    color: white;
+}
+#encuentra{
+    padding-top: 2.5%;
+    font-size: small;
+    padding-left: 5%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#row2{
+    height: 100px;
+}
+#logo{
+    width: 220px;
+    padding-top: 3%;
+}
+#lupa{
+    width: 15px;
+}
+#buscador{
+  background-color: white;
+  
+}
+#nav{
+    margin-left: 5%;
+
+}
+li{
+}
+#sec1{
+    height: 455px;
+}
+#comprar{
+    margin-top: 22.3%;
+    margin-left: 22%;
+    background-color: orangered;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    padding-left: 4.5%;
+    padding-right: 4%;
+    color: white;
+}
+#novedades{
+    font-size: large;
+    text-align: right;
+}
+
+#favoritos{
+font-size: large;
+}
+#perfume1{
+    padding-bottom: 4%;
+}
+#joyeria{
+    margin-left: 10%;
+}
+#ofertas{
+    margin-bottom: 5%;
+}
+#videos{
+    color: orangered;
+    text-align: center;
+    padding: 2%;
+}
